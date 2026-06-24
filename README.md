@@ -1,2 +1,2 @@
-# OTS-Typing-test
-d
+<h1>404 - Page Not Found</h1>
+<p>This page is currently unavailable.</p>
